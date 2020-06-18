@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploMediaPlayer</string>
+    <string name="button_play">Play</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_stop">Stop</string>
+    <string name="text_song">The Final Fight - Chris Huelsbeck (1991)</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check">Check</string>
+
+    <string name="question_content">Question</string>
+
+    <array name="respuestas">
+        <item>respuesta1</item>
+        <item>respuesta2</item>
+        <item>respuesta3</item>
+        <item>respuesta4</item>
+    </array>
+    <integer name="respuesta_correcta">2</integer>
+
+    <string-array name="spinnerAns">Question
+        <item>resp1</item>
+        <item>resp2</item>
+        <item>resp3</item>
+        <item>resp4</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lemonadeye</string>
+    <string name="title_activity_main">lemonadeye</string>
+    <string name="hello_world">Hello</string>
+    <string name="pause">PAUSE</string>
+    <string name="start">PLAY</string>
+    <string name="game_title">LEMONADEYE</string>
+    <string name="pause_dialog_title">PAUSE MENU</string>
+    <string name="pause_dialog_message">game paused</string>
+    <string name="resume">RESUME</string>
+    <string name="stop">STOP</string>
+    <string name="score"></string>
+</resources>

@@ -1,0 +1,5 @@
+﻿En el objeto LifeGameObject hemos implementado un Runnable que se encarga de actualizar el field de vida y en la clase SpaceShipPlayer tambien tendremos un nuevo campo life que enviará el evento GameEvent.Death cuando el jugador quede a 0 de vidas.
+Este evento notificará al GameEngine que la partida acabó, recuperando el score y escribiendolo en las preferencias para recuperarlo en el fragmento de fin de partida (DeathFragment) donde se crea el fragmento y aparece una ventana emergente con la puntuacion del jugador y le da la opcion de volver al menú, donde podrá comenzar una nueva partida.
+
+
+El objeto ScoreGameObject es controlado por el evento GameEvent.AsteroidMissed, siendo notificado por el objeto Asteroide mismo, y nos quitará un punto, y el evento GameEvent.AsteroidHit, donde nos sumará 50 puntos por golpear a un Asteroide, siendo notificado por el objeto Bullet al colisionar con un Asteroide.

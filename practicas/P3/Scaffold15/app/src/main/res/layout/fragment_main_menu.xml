@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        style="@android:style/TextAppearance.DeviceDefault.Large"
+        android:layout_width="wrap_content"
+        android:layout_height="89dp"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/game_title"
+        android:textAllCaps="false"
+        android:textColor="#DDFCE203"
+        android:textSize="60sp" />
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="173dp"
+        android:layout_height="157dp"
+        android:layout_gravity="center"
+        android:background="#FFEB3B"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/start"
+        android:textColor="#9C27B0"
+        android:textSize="36sp" />
+
+</FrameLayout>

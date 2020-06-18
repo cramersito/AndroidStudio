@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\pablo\desktop\p2\visual2015\p2glsl\scr\main.cpp(49): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\pablo\desktop\p2\visual2015\p2glsl\scr\main.cpp(95): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pablo\desktop\p2\visual2015\p2glsl\scr\main.cpp(96): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pablo\desktop\p2\visual2015\p2glsl\scr\main.cpp(104): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  P2GLSL.vcxproj -> C:\Users\pablo\Desktop\P2\Visual2015\P2GLSL\Debug\P2GLSL.exe
